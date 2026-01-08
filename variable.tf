@@ -12,6 +12,6 @@ variable "vm-size" {
 
 variable "vm-name" {
     type = string
-    default = "DarthVader-vm1"
+    default = "Skywalker-vm1"
   
 }
